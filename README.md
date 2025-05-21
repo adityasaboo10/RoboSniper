@@ -92,12 +92,12 @@ These upgrades can enhance both performance and control, while demonstrating mul
 ### 🔫 RoboSniper in Action
 
 **Side View**
-![Side View](c:\Users\adisa\Downloads\side.jpg)
+![Image](https://github.com/user-attachments/assets/de601dcd-72ba-4125-81e0-845ba07b8073)
 
 **Front View**
-![Front View](c:\Users\adisa\Downloads\front.jpg)
+![Image](https://github.com/user-attachments/assets/1a9e22a5-df06-4ff4-a202-3298271f2a32)
 
 **Angled View**
-![Angled View](c:\Users\adisa\Downloads\rear.jpg)
+![Image](https://github.com/user-attachments/assets/3af157b2-aa5f-4287-837f-6bc9fd619225)
 
 
