@@ -87,7 +87,7 @@ This bot can be used for:
 
 These upgrades can enhance both performance and control, while demonstrating multitasking and wireless interaction with embedded systems.
 
-## [Gallery]
+## [Gallery](#gallery)
 
 ### 🔫 RoboSniper in Action
 
