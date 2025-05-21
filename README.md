@@ -4,13 +4,13 @@ This is a project was made due to the course requirment of making a line followe
 <br>
 
 ## Table of Contents 
-1. [Hardware & Materials](#Hardware & Materials)
+1. [Hardware_Materials](#Hardware_Materials)
 1. [SETUP](#setup)
 2. [Usage](#usage)
 3. [Suggestions](#suggestions)
 4. [Gallery](#Gallery)
 
-##  [Hardware & Materials](#Hardware & Materials)
+##  [Hardware_Materials](#Hardware_Materials)
 
 Below is a list of components and materials used in the RoboSniper project:
 
