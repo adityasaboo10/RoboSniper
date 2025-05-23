@@ -14,7 +14,7 @@ This is a project was made due to the course requirment of making a line followe
 
 Below is a list of components and materials used in the RoboSniper project:
 
-### 🧠 Electronics
+###  Electronics
 - **Arduino Uno** – Main microcontroller
 - **SG90 Servo Motors** (x3) – For radar sweep, gun aiming, and trigger pull
 - **HC-SR04 Ultrasonic Sensor** – For enemy detection
@@ -23,12 +23,12 @@ Below is a list of components and materials used in the RoboSniper project:
 - **9V Battery / Power Bank** – For powering the bot
 - **Jumper Wires**, **Breadboard** or **Custom PCB**
 
-### 🛠️ Mechanical / Printed Parts
+###  Mechanical / Printed Parts
 - **3D Printed Mounts** – For gun, servos, and sensor holders
 - **Wheels & Chassis** – DIY or purchased
 - **General-purpose fasteners** – Screws, bolts, rubber bands, double-sided tape, etc.
 
-### 🧵 Materials
+### Materials
 - **PLA Filament** – Used for all 3D printed parts
 - **Rubber Bands** – Used as safe, low-cost projectiles for the gun mechanism
 
@@ -89,7 +89,7 @@ These upgrades can enhance both performance and control, while demonstrating mul
 
 ## [Gallery](#gallery)
 
-### 🔫 RoboSniper in Action
+### RoboSniper in Action
 
 **Side View**
 ![Image](https://github.com/user-attachments/assets/de601dcd-72ba-4125-81e0-845ba07b8073)
