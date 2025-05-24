@@ -15,7 +15,7 @@ This is a project was made due to the course requirment of making a line followe
 Below is a list of components and materials used in the RoboSniper project:
 
 ###  Electronics
-- **Arduino Uno** – Main microcontroller
+- **Arduino Uno**(x2) – Main microcontroller
 - **SG90 Servo Motors** (x3) – For radar sweep, gun aiming, and trigger pull
 - **HC-SR04 Ultrasonic Sensor** – For enemy detection
 - **L298N Motor Driver Module** – For controlling line-following motors
